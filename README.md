@@ -1,44 +1,25 @@
-<h1 align="left">👋 Olá! Meu nome é Jennifer, mas você pode me chamar de Jenni.</h1>
+# ✨ Jennifer Domingos
 
-###
+Olá! Meu nome é Jennifer — mas você pode me chamar de Jenni.
 
-<h2 align="left">Sobre</h2>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jennifer-domingos-061897328)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenniferdomgs@gmail.com)
+---
+## 🤖 Linguagens e Tecnologias
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<br/>
 
-###
+---
+## 📊 Estatísticas
+| ![Eliseu GitHub Stats](https://github-readme-stats.vercel.app/api?username=jenniferdomgs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferdomgs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
+| --- | --- |
 
-<p align="left">🎓 Sou técnica em Informática pelo IFRN e atualmente estou cursando Análise e Desenvolvimento de Sistemas na mesma instituição. A tecnologia é minha paixão, e a cada dia me sinto mais motivada a explorar suas infinitas possibilidades, especialmente quando se trata de resolver problemas e conflitos.</p>
 
-###
+## 🐍 Snake Game
+![snake gif](https://github.com/eliseufesantos/eliseufesantos/blob/output/github-snake-dark.svg?palette=github-dark)
 
-<h2 align="left">Experiência</h2>
-
-###
-
-<p align="left">- Ex-aluna pesquisadora na PM/RN (2024-2025), onde tive a oportunidade de aprofundar meus conhecimentos e contribuir para projetos significativos.
-- Finalista do 1° Hackathon do MJSP (2025), uma experiência que me desafiou a pensar fora da caixa e a trabalhar em equipe para desenvolver uma solução inovadora.</p>
-
-###
-
-<h2 align="left">Habilidades</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
-
-###
