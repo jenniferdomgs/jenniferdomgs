@@ -16,6 +16,6 @@ Olá! Meu nome é Jennifer — mas você pode me chamar de Jenni.
 
 ---
 ## 📊 Estatísticas
-| ![Eliseu GitHub Stats](https://github-readme-stats.vercel.app/api?username=jenniferdomgs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferdomgs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
+| ![Jenni GitHub Stats](https://github-readme-stats.vercel.app/api?username=jenniferdomgs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferdomgs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
 | --- | --- |
 
