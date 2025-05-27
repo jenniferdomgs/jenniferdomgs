@@ -20,6 +20,6 @@
 
 ---
 ## 📊 Estatísticas
-| ![Jenni GitHub Stats](https://github-readme-stats.vercel.app/api?username=jenniferdomgs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | !
+| ![Jenni GitHub Stats](https://github-readme-stats.vercel.app/api?username=jenniferdomgs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) 
 
 
