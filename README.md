@@ -1,4 +1,4 @@
-# 💻 Jennifer Domingos
+# ⭐ Jennifer Domingos
 
 <p align="left">
   👋 Olá! Meu nome é <strong>Jennifer</strong> — mas pode me chamar de <strong>Jenni</strong>.
@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 - 🎓 **Graduanda** em Análise e Desenvolvimento de Sistemas — *IFRN*  
 - 🖥️ **Técnica** em Informática — *IFRN*  
 - 🛡️ Atuei como aluna pesquisadora na **DTIC/PMRN** em 2024, desenvolvendo soluções para a Segurança Pública do RN  
@@ -33,11 +33,3 @@
 <img alt="PostgreSQL" title="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 <img alt="Linux" title="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jenniferdomgs&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferdomgs&layout=compact&theme=radical" />
-</div>
