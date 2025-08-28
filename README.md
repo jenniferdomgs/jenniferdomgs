@@ -14,7 +14,6 @@
 - 🖥️ **Técnica** em Informática | *IFRN*  
 - 🛡️ Atuei como aluna pesquisadora na **DTIC/PMRN** em 2024, desenvolvendo soluções para a Segurança Pública do RN  
 - 🏆 Participei do **1° Hackathon do MJSP**, com o projeto **EmergêncIA**, conquistando o **5° lugar nacional**  
-- 📊 Atualmente, tenho estudado mais sobre **dados** e **análise de informações**  
 
 ---
 
