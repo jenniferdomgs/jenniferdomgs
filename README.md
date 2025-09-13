@@ -1,4 +1,4 @@
-# ⭐ Jennifer Domingos
+# Jennifer Domingos
 
 <p align="left">
   👋 Olá! Meu nome é <strong>Jennifer</strong> — mas pode me chamar de <strong>Jenni</strong>.
