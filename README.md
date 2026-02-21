@@ -5,7 +5,7 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jennifer-domingos-061897328)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-BB1BDE?style=for-the-badge&logo=vercel&logoColor=white)](https://jenniferdomingosdev.vercel.app/)
+[![Portifólio](https://img.shields.io/badge/-Portfólio-BB1BDE?style=for-the-badge&logo=vercel&logoColor=white)](https://jenniferdomingosdev.vercel.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenniferdomgs@gmail.com)
 ---
 
