@@ -10,7 +10,8 @@
 - 🎓 **Graduanda** em Tecnologia em Análise e Desenvolvimento de Sistemas | IFRN  
 - 🖥️ **Técnica** em Informática | IFRN  
 - 🛡️ Ex-aluna pesquisadora na **DTIC/PMRN** em 2024, desenvolvendo soluções para a Segurança Pública do RN  
-- 🏆 Participei do **1° Hackathon do MJSP**, com o projeto **EmergêncIA**, conquistando o **5° lugar nacional**  
+- 🏆 Participei do **1° Hackathon do MJSP**, com o projeto **EmergêncIA**, conquistando o **5° lugar nacional**
+- 🎯 Atualmente tenho treinado para programação competitiva utilizando C++
 
 ---
 
