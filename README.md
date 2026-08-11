@@ -7,8 +7,8 @@
 ---
 
 ## Sobre Mim
-- 🎓 **Graduanda** em Tecnologia em Análise e Desenvolvimento de Sistemas | IFRN  
-- 🎓 **Técnica** em Informática | IFRN
+- 🎓 **Graduanda** em Tecnologia em Análise e Desenvolvimento de Sistemas | **IFRN**  
+- 🎓 **Técnica** em Informática | **IFRN**
 - 🤖 Aluna pesquisadora na área de Análise e Modelagem de Sistemas Ciberfísicos | **IFRN**
 - 🛡️ Ex-aluna pesquisadora na **DTIC/PMRN** em 2024, desenvolvendo soluções para a Segurança Pública do RN  
 - 🏆 Participei do **1° Hackathon do MJSP**, com o projeto **EmergêncIA**, conquistando o **5° lugar nacional**
